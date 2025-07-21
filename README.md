@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there, I'm Sonika Vankadari 👋</h1>
-<p align="center"><i>Engineering graduate | AI Enthusiast | Builder of Bots & Intelligent Systems</i></p>
+<p align="center"><i>Engineering graduate | AI Enthusiast | LLM Trainer</i></p>
 
 ---
 
