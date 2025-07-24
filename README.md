@@ -1,12 +1,12 @@
 # Sonika Vankadari  
-**`AI Engineer | LLM Specialist | Building AI agents and Intelligent Systems`**  
+**`AI Engineer | Building AI agents and Intelligent Systems | n8n Workflow Automation`**  
 
 ---
 
 ### **About Me**  
-I design and deploy **AI agents and language-driven solutions** that bridge cutting-edge research with real-world applications. My work focuses on creating intelligent systems that are intuitive, actionable, and human-centric—whether through fine-tuning LLMs, designing RAG architectures, or building autonomous workflows.  
+I design and deploy **AI agents and language-driven solutions** that bridge cutting-edge research with real-world applications. My work focuses on creating intelligent systems that are intuitive, actionable, and human-centric through fine-tuning LLMs, designing RAG architectures, or building autonomous workflows.  
 
-Passionate about **generative AI, agentic automation, and ethical AI deployment**, I build technology that doesn't just process data but *understands* and *acts* on it meaningfully.  
+Passionate about **generative AI, agentic automation, and intelligent workflows**, I build technology that doesn't just process data but *understands* and *acts* on it meaningfully.  
 
 ---
 
@@ -18,12 +18,13 @@ Passionate about **generative AI, agentic automation, and ethical AI deployment*
 ▸ **Autonomous AI Agents**  
 → Reasoning, planning, and workflow automation  
 → Multi-agent collaboration frameworks  
+→ Conversational AI systems
 
 ▸ **Retrieval-Augmented Generation (RAG)**  
 → Knowledge integration & real-time data pipelines  
 
 ▸ **Tools & Frameworks**  
-→ `Python` · `n8n` · `CrewAI` · `OpenAI SDK` · `Hugging Face`  
+→ `Python` · `n8n` · `CrewAI` · `OpenAI SDK` · `Hugging Face` · `ElevenLabs`  
 
 ---
 
