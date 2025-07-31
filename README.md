@@ -6,8 +6,6 @@
 ### **About Me**  
 I design and deploy **AI agents and language-driven solutions** that bridge cutting-edge research with real-world applications. My work focuses on creating intelligent systems that are intuitive, actionable, and human-centric through fine-tuning LLMs, designing RAG architectures, or building autonomous workflows.  
 
-Passionate about **generative AI, agentic automation, and intelligent workflows**, I build technology that doesn't just process data but *understands* and *acts* on it meaningfully.  
-
 ---
 
 ### **Core Expertise**  
